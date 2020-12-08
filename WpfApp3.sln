@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1Tests", "ClassLibrary1Tests\ClassLibrary1Tests.csproj", "{8AD95211-09CD-4AEA-B958-8E08A632A736}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{E36C3762-A17E-4AB7-9977-B16283F6E783}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\09_1.5_7\Общие ресурсы\README.md = ..\..\..\Desktop\09_1.5_7\Общие ресурсы\README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
